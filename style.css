@@ -1,0 +1,189 @@
+.hueta {
+	border: 1px solid white;
+	width:1900px;
+	height:1700px;
+	
+	position:relative;
+}
+.levoe {
+	border:1px solid white;
+	width:240px;
+	height:560px;
+	position:relative;
+	color:white;
+	font-size:34;
+	font-style:sans;
+	
+}
+.a{
+	border:1px solid white;
+	width:200px;
+	height:200px;
+	position:absolute;
+	top:40px;
+	left:300px;
+	color:white;
+	
+}
+.q{
+	border:1px solid white;
+	width:200px;
+	height:200px;
+	top:40px;
+	left:550px;
+	position:absolute;
+	color:white;
+}
+.w{
+	border:1px solid white;
+	width:200px;
+	height:200px;
+	top:40px;
+	left:800px;
+	position:absolute;
+	color:white;
+}
+.e{
+	border:1px solid white;
+	width:200px;
+	height:200px;
+	top:40px;
+	left:1050px;
+	color:white;
+	position:absolute;
+}
+.r{
+	border:1px solid white;
+	width:200px;
+	height:200px;
+	top:40px;
+	left:1300px;
+	color:white;
+	position:absolute;
+}
+.t{
+	border:1px solid white;
+	width:200px;
+	height:200px;
+	top:40px;
+	left:1550px;
+	position:absolute;
+	color:white;
+}
+.y{
+	border:1px solid white;
+	width:200px;
+	height:200px;
+	top:40px;
+	left:550px;
+	color:white;	
+	position:absolute;
+}
+.u{
+	border:1px solid white;
+	width:200px;
+	height:200px;
+	top:300px;
+	left:300px;
+	color:white;	
+	position:absolute;
+}
+.i{
+	border:1px solid white;
+	width:200px;
+	height:200px;
+	top:300px;
+	left:550px;
+	position:absolute;
+	color:white;
+}
+.o{
+	border:1px solid white;
+	width:200px;
+	height:200px;
+	top:300px;
+	left:800px;
+	color:white;	
+	position:absolute;
+}
+.p{
+	border:1px solid white;
+	width:200px;
+	height:200px;
+	top:300px;
+	left:1050px;
+	color:white;
+	position:absolute;
+}
+.s{
+	border:1px solid white;
+	width:200px;
+	height:200px;
+	top:300px;
+	left:1300px;
+	color:white;	
+	position:absolute;
+}
+.d{
+	border:1px solid white;
+	width:200px;
+	height:200px;
+	top:300px;
+	left:1550px;
+	position:absolute;
+	color:white;
+}
+.f{
+	border:1px solid white;
+	width:200px;
+	height:200px;
+	top:560px;
+	left:300px;
+	color:white;
+	position:absolute;
+}
+.g{
+	border:1px solid white;
+	width:200px;
+	height:200px;
+	top:560px;
+	left:550px;
+	position:absolute;
+	color:white;	
+}
+.h{
+	border:1px solid white;
+	width:200px;
+	height:200px;
+	top:560px;
+	left:800px;
+	color:white;	
+	position:absolute;
+}
+.j{
+	border:1px solid white;
+	width:200px;
+	height:200px;
+	top:560px;
+	left:1050px;
+	color:white;	
+	position:absolute;
+}
+.k{
+	border:1px solid white;
+	width:200px;
+	height:200px;
+	top:560px;
+	left:1300px;
+	color:white;	
+	position:absolute;
+}
+.l{
+	border:1px solid white;
+	width:200px;
+	height:200px;
+	top:560px;
+	left:1550px;
+	position:absolute;
+	color:white;	
+}
